@@ -7,4 +7,4 @@ https://user-images.githubusercontent.com/82487339/217755308-06a9ed06-bd8a-4f6c-
 
 # Links
 
-Deployed link : https://sparkly-macaron-cfbc24.netlify.app/
+Deployed link : https://tusharsahu-parallex.netlify.app/
